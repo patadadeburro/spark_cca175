@@ -1,0 +1,10 @@
+Virtual Player
+https://www.vmware.com/in/products/workstation.html
+
+VM
+https://myoffice.accenture.com/personal/megha_shastry_accenture_com/Cloudera-Training-Dev1-5.4a-vmware
+
+https://myoffice.accenture.com/personal/megha_shastry_accenture_com/Cloudera/Forms/AllItems.aspx?RootFolder=%2Fpersonal%2Fmegha_shastry_accenture_com%2FCloudera%2FDeveloper%20Training%20for%20Spark%20and%20Hadoop%20I&FolderCTID=0x012000AFD95B8935F6B74F9BBA851D74C4811B&View=%7B3F3BBDDC-419B-40E2-B617-EB0CA9C305D3%7D
+
+
+
